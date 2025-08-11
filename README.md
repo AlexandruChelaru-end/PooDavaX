@@ -17,6 +17,7 @@ Proiectul este structurat pe module separate:
 - storage.py # Salvare în baza de date SQLite
 - requirements.txt # Librării necesare
 - .flake8 # Configurare linting
+
 Rulează comenzi din CLI
 python cli.py pow --base 2 --exp 5
 Output: Rezultat: 32
